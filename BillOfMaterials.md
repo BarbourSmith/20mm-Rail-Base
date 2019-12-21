@@ -2,7 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|name|0|$0.00|www.example.com|
-|Total: |0|$0.00| |
+|20mm Shaft Support|1|$2.00|https://www.mcwww.example.commaster.com/62645k42|
+|Total: |1|$2.00| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $6.00
